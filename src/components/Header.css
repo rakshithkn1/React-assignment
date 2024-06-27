@@ -1,0 +1,32 @@
+
+.custom-navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+  }
+  
+  .custom-navbar .navbar-brand img {
+    width: 600px;
+    height: 80px;
+  }
+  
+  .custom-navbar .navbar-brand .navbar-brand-text {
+    margin-left: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .custom-navbar .nav-link {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .custom-navbar .nav-item .dropdown-menu {
+    font-size: 1rem;
+  }
+  
+  .custom-navbar .d-inline-block.align-top {
+    width: 40px;
+    height: 40px;
+  }
+  
